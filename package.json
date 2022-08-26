@@ -1,0 +1,19 @@
+{
+  "name": "my-first-project",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "vue": "^3.2.30"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.1",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "tsconfig-paths-webpack-plugin": "^4.0.0",
+    "vite": "^3.0.4"
+  }
+}
